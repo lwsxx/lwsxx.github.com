@@ -599,11 +599,12 @@ header .go-back i {
 .bg-cover .container {
     position: relative;
     color: #fff;
+    opacity: 0.8;
     z-index: 2;
 }
 
 .bg-cover .title {
-    font-size: 4rem;
+    font-size: 2rem;
     line-height: 1.2em;
     margin-bottom: 20px;
     position: relative;
