@@ -4,6 +4,19 @@
   
     
     <entry>
+      <title>PWA</title>
+      <link href="posts/c3e7.html"/>
+      <url>posts/c3e7.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="如何辨别一个web应用是否是一个PWA应用？"><a href="#如何辨别一个web应用是否是一个PWA应用？" class="headerlink" title="如何辨别一个web应用是否是一个PWA应用？"></a>如何辨别一个web应用是否是一个PWA应用？</h2><h3 id="它应该具有以下特点："><a href="#它应该具有以下特点：" class="headerlink" title="它应该具有以下特点："></a>它应该具有以下特点：</h3><p>Discoverable, 内容可以通过搜索引擎发现。<br>Installable, 可以出现在设备的主屏幕。<br>Linkable, 你可以简单地通过一个URL来分享它。<br>Network independent, 它可以在离线状态或者是在网速很差的情况下运行。<br>Progressive, 它在老版本的浏览器仍旧可以使用，在新版本的浏览器上可以使用全部功能。<br>Re-engageable, 无论何时有新的内容它都可以发送通知。<br>Responsive, 它在任何具有屏幕和浏览器的设备上可以正常使用——包括手机，平板电脑，笔记本，电视，冰箱，等。<br>Safe, 在你和应用之间的连接是安全的，可以阻止第三方访问你的敏感数据。</p><p>More info:<a href="https://developer.mozilla.org/zh-CN/docs/Web/Progressive_web_apps/Introduction" target="_blank" rel="noopener">https://developer.mozilla.org/zh-CN/docs/Web/Progressive_web_apps/Introduction</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="posts/3eeb.html"/>
       <url>posts/3eeb.html</url>
